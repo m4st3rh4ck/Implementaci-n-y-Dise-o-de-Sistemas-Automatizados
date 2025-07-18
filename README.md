@@ -1,5 +1,5 @@
-# Implementaci-n-y-Dise-o-de-Sistemas-Automatizados
-Radar Detector de Objetos con Arduino y Processing
+# Mecatronica
+Implementacion-y-Dise-o-de-Sistemas-Automatizados / Radar Detector de Objetos con Arduino y Processing
 
 Este proyecto fue desarrollado como parte del programa de Mecatrónica Básica en el Colegio de Ciencias y Humanidades (UNAM) para ser acreedor del titulo en Tecnico Especializado en Mecatronica, con el objetivo de aplicar conocimientos de electrónica, programación y automatización para crear un sistema funcional de detección de objetos.
 
