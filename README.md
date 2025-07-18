@@ -13,3 +13,13 @@ Los datos se envían vía puerto serial a un programa en Processing, que represe
 Se visualiza la distancia y dirección del objeto en una interfaz gráfica con efecto de rastro y retroalimentación visual.
 
 El radar fue desarrollado como una forma de comprender y aplicar los principios detrás de sistemas reales de detección usados en industrias como la automotriz, aeroespacial o de seguridad. También tiene un enfoque educativo, para acercar a los estudiantes al diseño de sistemas mecatrónicos integrados de manera didáctica y funcional.
+
+
+
+
+MECBAS.pdf: Documentacion del proyecto
+
+radar_arduino.ino: Codigo de arduino, el cual controla el movimiento del servomotor y obtiene mediciones de distancia con el sensor ultrasónico.
+
+radar_processing.pde: Codigo de processing, el cual recibe y visualiza los datos enviados desde Arduino, creando una interfaz tipo radar en la computadora.
+
